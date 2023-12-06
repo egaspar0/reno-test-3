@@ -47,7 +47,7 @@
     },
     {
       "matchDatasources": ["npm", "nuget", "terraform-module", "terraform-provider"],
-      "minimumReleaseAge": "14 days"
+      "minimumReleaseAge": "13 days"
     }
   ]
 }
